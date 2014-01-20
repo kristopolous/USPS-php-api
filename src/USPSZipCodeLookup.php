@@ -1,5 +1,5 @@
 <?php
-namespace USPS\API;
+namespace Usps\Api;
 /**
  * Load required classes
  */

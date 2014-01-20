@@ -1,5 +1,5 @@
 <?php
-namespace USPS\API;
+namespace Usps\Api;
 
 /**
  * USPS Address Class
