@@ -1,0 +1,13 @@
+{
+  "name": "usps/api",
+  "description": "library for validating usps addresses and calculating shipping details",
+  "authors": [
+    {
+      "name": "Vincent Gabriel"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "minimum-stability": "dev"
+}
